@@ -1,0 +1,16 @@
+﻿.venv/
+backend/.venv/
+backend/.cache/
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+
+.git-old/
+.DS_Store
+
+backend/models/voice/cremad/voice_model.pt
